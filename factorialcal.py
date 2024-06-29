@@ -4,3 +4,4 @@ for i in range(num,0,-1):
     factorial*=i
 
 print(factorial)
+
